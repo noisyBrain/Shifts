@@ -6,7 +6,7 @@
 
 **Šhifts** pretende ser una _"librería"_ para comerciantes/profesionales, es decir, una aplicación para quien guste usarla, adoptarla y customizarla en base a su emprendimiento y/o necesidades.
 
-Estará en desarrollo durante los próximos meses, ya que es una idea que surgió de la necesidad de mantenerme activo programando día a día, que es lo que tanto me gusta. Además, poder también adquirir nuevas experiencias, ya que mi objetivo es posicionarme no sólo como desarrollador, sino también como **Product Owner**, atendiendo a requeriemientosme mediante análisis funcional y como **Proyect Manager** encargado de la planificación y estructuración;
+Estará en desarrollo durante los próximos meses, ya que es una idea que surgió de la necesidad de mantenerme activo programando día a día, que es lo que tanto me gusta. Además, poder también adquirir nuevas experiencias, ya que mi objetivo es posicionarme no sólo como desarrollador, sino también como **Product Owner**, atendiendo a requeriemientos mediante análisis funcional y como **Proyect Manager** encargado de la planificación y estructuración;
 
 Al momento de hoy, me encuentro desarrollando el backend de la app. En futuras entregas, trataré (y digo trataré porque no es mi área) de armar una UX/UI, al menos, aceptable.
 
