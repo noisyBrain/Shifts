@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/Downloads/misc/logo_rooster.png" width="300" alt="Šhifts_logo" />
+  <img src="https://res.cloudinary.com/dahibbuti/image/upload/v1675807614/images/logo_rooster_fbelj2.png" width="300" alt="Šhifts_logo" />
 </p>
 
 # Šhifts
