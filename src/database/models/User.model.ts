@@ -1,7 +1,7 @@
 import { Prop, Schema, SchemaFactory } from '@nestjs/mongoose';
 import { HydratedDocument } from 'mongoose';
 
-import { UserAddress } from '../../user/interfaces';
+import { Address } from '../schemas/Address.schema';
 
 export type UserDocument = HydratedDocument<User>;
 
@@ -20,7 +20,7 @@ export class User {
   password: string;
 
   @Prop()
-  address: UserAddress;
+  address: Address;
 }
 
 export const UserSchema = SchemaFactory.createForClass(User);
