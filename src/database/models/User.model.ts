@@ -1,7 +1,9 @@
 import { Prop, Schema, SchemaFactory } from '@nestjs/mongoose';
+
 import { HydratedDocument } from 'mongoose';
 
 import { Address } from '../schemas/Address.schema';
+import { id } from '../types/ObjectId';
 
 export type UserDocument = HydratedDocument<User>;
 
@@ -19,7 +21,7 @@ export class User {
   @Prop()
   password: string;
 
-  @Prop()
+  @Prop({ type: id, ref: 'Address' })
   address: Address;
 }
 
